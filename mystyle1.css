@@ -1,0 +1,22 @@
+body {
+	background:pink;
+	color:red;
+}
+h1, h2, h3 {
+	color: white;
+	background: grey;
+	border: 2px solid;
+	padding: 5px;
+display: inline-block;
+}
+.formula {
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+p.definition {
+	border: 1px solid;
+	padding: 10px;
+}
+
+
